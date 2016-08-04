@@ -1,0 +1,15 @@
+body {
+	background: #fff;
+}
+
+.tutorialicon {
+    font-size: 250px;
+    line-height: 170px;
+}
+.tutorial-close-btn {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    color: #0da6ec !important;
+    text-decoration: none !important;
+}
